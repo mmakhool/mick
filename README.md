@@ -111,7 +111,7 @@ Running a small print farm for custom orders and prototypes:
 
 ### Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-inquiries@makhooldesigns.com-9B6FD9?style=flat-square&logo=gmail&logoColor=white)](mailto:inquiries@makhooldesigns.com)
+[![Email](https://img.shields.io/badge/Email-mick@makhooldesigns.com-9B6FD9?style=flat-square&logo=gmail&logoColor=white)](mailto:inquiries@makhooldesigns.com)
 
 <br/>
 
