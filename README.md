@@ -107,25 +107,6 @@ Running a small print farm for custom orders and prototypes:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mick&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=9B6FD9&icon_color=06b6d4" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mick&theme=tokyonight&hide_border=true&background=0f172a&ring=9B6FD9&fire=f59e0b&currStreakLabel=9B6FD9" alt="GitHub Streak" height="165"/>
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-- 🔨 Building **MakhoolDesignsV2** — full-stack platform for client work & 3D print orders
-- 🤖 Exploring AI-assisted development with **Claude Code** and **Cursor**
-- 📚 Learning more about **Go** for high-performance services
-
----
-
 <div align="center">
 
 ### Let's Connect
